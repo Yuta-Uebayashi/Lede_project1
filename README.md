@@ -1,5 +1,7 @@
 # Rising Popularity of Private Junior High Schools in Japan
 
+Link to the Lede_project1:https://yuta-uebayashi.github.io/Lede_project1/
+
 ## Overview
 
 This project investigates the growing trend of private junior high school attendance in Japan. Amidst a declining birthrate and increasing educational competition, more parents are choosing private education for their children. What are the driving factors behind this shift?
