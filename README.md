@@ -2,59 +2,44 @@
 
 This is the first project I’ve worked on at Lede.(https://yuta-uebayashi.github.io/Lede_project1/)
 
-## Title
-Why More Parents Are Choosing Private Junior High Schools in Japan
+# Why More Parents Are Choosing Private Junior High Schools in Japan
 
-## Project Goal
+## Project Goal  
+This project visualizes how private junior high schools in Japan are gaining popularity, even as the country faces a sharp decline in its birthrate. Through data analysis, it explores the factors behind this trend and examines the relationship between the rise in private school enrollment and the ongoing population decline.
 
-The aim of this project was to investigate the link between the growing popularity of private education and Japan's low fertility rate. The story also seeks to understand whether the burden of educational expenses is discouraging families from having more children.
+## Findings
 
-## Key Findings
-
-- Applications to private junior high schools remain high even as the number of children declines.
-- The rate of entrance exam takers is significantly higher in wealthier districts.
-- Private schools dominate the list of high schools that send the most students to the University of Tokyo.
-- Educational inequality caused by income disparity may be contributing to Japan’s declining birthrate.
-
-## Data Collection
-
-Data was collected from a variety of public and institutional sources:
-
-- Ministry of Education, Culture, Sports, Science and Technology (MEXT)
-- Tokyo Metropolitan Government and local municipalities
-- The Nippon Foundation Survey on Fertility Intentions
-
-Links to public datasets and visualizations:
-- [Datawrapper Visualizations](https://datawrapper.dwcdn.net)
-- [Flourish Charts](https://public.flourish.studio/)
-- [GitHub Repository](https://github.com/Yuta-Uebayashi/Lede_project1)
+- The percentage of students taking private junior high school entrance exams is increasing, despite the overall decline in the child population.  
+- Exam rates are higher in central Tokyo, where average household income is also higher.  
+- The majority of University of Tokyo admits come from private schools in central Tokyo.  
+- Educational expenses vary significantly depending on household income.  
+- Many households cite high education costs as a major reason for not having children.  
 
 ## Data Analysis Process
 
-- Cleaned and transformed statistical data using spreadsheets and Python.
-- Analyzed income and enrollment correlations by Tokyo municipality.
-- Visualized spatial patterns using Datawrapper and Flourish.
-- Designed a scrollytelling narrative with HTML/CSS, integrating interactive charts and maps.
+- Cleaned and transformed statistical data using spreadsheets and Python.  
+- Analyzed income and enrollment correlations by Tokyo municipality.  
+- Visualized spatial patterns using Datawrapper and Flourish.  
+- Designed a scrollytelling narrative with HTML/CSS, integrating interactive charts and maps.  
 
-## Skills and Growth
-
+## Skills and Growth  
 Through this project, I gained new skills in:
 
-- HTML and responsive web design
-- Embedding and customizing interactive charts
-- Mapping with Datawrapper and Flourish
-- Storytelling with data for social impact
-- Exploring structural inequality using visual journalism
+- HTML and responsive web design  
+- Embedding and customizing interactive charts  
+- Data acquisition and cleaning using Python and Pandas  
+- Mapping with Datawrapper  
+- Creating charts with Flourish  
+- Storytelling with data for social impact  
+- Exploring structural inequality using visual journalism  
 
-## Limitations and Future Work
+## Future Work
 
-I wanted to analyze parent interviews and school-level policy documents, but time and language constraints limited my ability to do so. In the future, I hope to:
+In the future, I hope to:
 
-- Conduct qualitative interviews with families and educators
-- Add a time-series analysis of enrollment trends over the past 20 years
-- Improve the design and accessibility of the mobile experience
-
-## Datasets Used
+- Conduct qualitative interviews with families and educators  
+- Add a time-series analysis of enrollment trends over the past 20 years  
+- Improve the design and accessibility of the mobile experience  
 
 ## Datasets Used
 
