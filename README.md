@@ -1,10 +1,7 @@
 # Lede Project1
 
-## Why More Parents Are Choosing Private Junior High Schools in Japan(https://yuta-uebayashi.github.io/Lede_project1/)
-
-### Overview
-
-This project explores why an increasing number of parents in Japan, especially in urban areas, are choosing private junior high schools for their children — despite rising costs and a declining birthrate.
+## Title
+Why More Parents Are Choosing Private Junior High Schools in Japan(https://yuta-uebayashi.github.io/Lede_project1/)
 
 ## Project Goal
 
