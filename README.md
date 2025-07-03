@@ -1,5 +1,5 @@
 # 📘 Lede Project 1  
-**This is my first project I’ve worked on at [Lede](https://yuta-uebayashi.github.io/Lede_project1/).**
+**This is the first project I’ve worked on at [Lede](https://yuta-uebayashi.github.io/Lede_project1/).**
 
 ## 🏷️ Title  
 **Why More Parents Are Choosing Private Junior High Schools in Japan**
