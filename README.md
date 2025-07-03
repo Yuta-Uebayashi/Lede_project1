@@ -1,30 +1,36 @@
-# Lede Project1
+# 📘 Lede Project 1  
+**This is the first project I’ve worked on at [Lede](https://yuta-uebayashi.github.io/Lede_project1/).**
 
-This is the first project I’ve worked on at Lede.(https://yuta-uebayashi.github.io/Lede_project1/)
+## 🏷️ Title  
+**Why More Parents Are Choosing Private Junior High Schools in Japan**
 
+---
 
-## Title
-Why More Parents Are Choosing Private Junior High Schools in Japan
-
-## Project Goal  
+## 🎯 Project Goal  
 This project visualizes how private junior high schools in Japan are gaining popularity, even as the country faces a sharp decline in its birthrate. Through data analysis, it explores the factors behind this trend and examines the relationship between the rise in private school enrollment and the ongoing population decline.
 
-## Findings
+---
+
+## 🔍 Findings
 
 - The percentage of students taking private junior high school entrance exams is increasing, despite the overall decline in the child population.  
 - Exam rates are higher in central Tokyo, where average household income is also higher.  
 - The majority of University of Tokyo admits come from private schools in central Tokyo.  
 - Educational expenses vary significantly depending on household income.  
-- Many households cite high education costs as a major reason for not having children.  
+- Many households cite high education costs as a major reason for not having children.
 
-## Data Analysis Process
+---
+
+## 📊 Data Analysis Process
 
 - Cleaned and transformed statistical data using spreadsheets and Python.  
 - Analyzed income and enrollment correlations by Tokyo municipality.  
 - Visualized spatial patterns using Datawrapper and Flourish.  
-- Designed a scrollytelling narrative with HTML/CSS, integrating interactive charts and maps.  
+- Designed a scrollytelling narrative with HTML/CSS, integrating interactive charts and maps.
 
-## Skills and Growth  
+---
+
+## 💡 Skills and Growth  
 Through this project, I gained new skills in:
 
 - HTML and responsive web design  
@@ -33,15 +39,18 @@ Through this project, I gained new skills in:
 - Mapping with Datawrapper  
 - Creating charts with Flourish  
 - Storytelling with data for social impact  
-- Exploring structural inequality using visual journalism  
+- Exploring structural inequality using visual journalism
 
-## Future Work
+---
 
+## 🔭 Future Work  
 In the future, I hope to:
 
 - Conduct qualitative interviews with families and educators  
 - Add a time-series analysis of enrollment trends over the past 20 years  
-- Improve the design and accessibility of the mobile experience  
+- Improve the design and accessibility of the mobile experience
+
+---
 
 ## Datasets Used
 
