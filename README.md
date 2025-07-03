@@ -1,8 +1,9 @@
-# Why More Parents Are Choosing Private Junior High Schools in Japan
+# Lede Project1
 
-## Overview
+This is the first project I’ve worked on at Lede.(https://yuta-uebayashi.github.io/Lede_project1/)
 
-This project explores why an increasing number of parents in Japan, especially in urban areas, are choosing private junior high schools for their children — despite rising costs and a declining birthrate.
+## Title
+Why More Parents Are Choosing Private Junior High Schools in Japan
 
 ## Project Goal
 
@@ -55,11 +56,17 @@ I wanted to analyze parent interviews and school-level policy documents, but tim
 
 ## Datasets Used
 
-- Average income by municipality (Tokyo Metropolitan Government)
-- Private school enrollment and application rates (MEXT)
-- Reasons for not having children (The Nippon Foundation)
-- University of Tokyo feeder school data
-- Japan's child population statistics (Cabinet Office of Japan)
+## Datasets Used
+
+- [The Share of Students Taking Private Junior High School Entrance Exams Is Rising](https://www.syutoken-mosi.co.jp/blog/entry/entry004634.php)
+- [Enrollment in Private Junior High Schools in Tokyo](https://www.kyoiku.metro.tokyo.lg.jp/about/statistics_and_research/career_report/report2024)
+- [Average Annual Income by Tokyo Municipality](https://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/ichiran09_24.html)
+- [High Schools Sending the Most Students to the University of Tokyo Are Concentrated in Cities](https://univ-online.com/success/tokyo/u126/)
+- [Leading Feeder High Schools for the University of Tokyo (Tokyo Area)](https://univ-online.com/success/tokyo/u126/)
+- [Annual Educational Expenses per Child](https://www.mext.go.jp/b_menu/toukei/chousa03/gakushuuhi/kekka/k_detail/mext_00002.html)
+- [Reasons for Not Having Children](https://www.nippon-foundation.or.jp/wp-content/uploads/2024/11/new_pr_20241129_01.pdf)
+- [How Japan’s Birth Numbers Have Changed Since 1960](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai24/index.html)
+- [Share of Children (Aged 0–14) in Selected Countries](https://population.un.org/wpp/)
 
 ---
 
